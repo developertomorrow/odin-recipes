@@ -5,4 +5,8 @@ This project will demonstrate the use of _HTML_ and _CSS_ and my current learnin
 It will show links, images, lists and formatting elements like strong and em. 
 
 ## Future of Recipes
+
 I intend to update the recipes pages as I go through the Odin Project course. 
+
+## Coming soon
+Update to recipes pages with flexbox integration
